@@ -22,9 +22,9 @@
     height: 195px;
     top: 60px;
    
-    left: calc(50% - 80px);
+    left: calc(45% - 50px);
     transform-style: preserve-3d;
-    transform: perspective(1000px);
+    transform: perspective(300px);
     animation: autoRun 15s linear infinite;
     z-index: 2;
 }
